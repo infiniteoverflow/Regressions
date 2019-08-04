@@ -31,7 +31,7 @@ A basic jupyter notebook consisting of codes to perform Linear Regression , Non-
 
 ![](https://github.com/infiniteoverflow/Regressions/blob/master/screenshots/logarithmic.png)
 
-![](https://github.com/infiniteoverflow/Regressions/blob/master/screenshots/sinusoidal.png)
+![](https://github.com/infiniteoverflow/Regressions/blob/master/screenshots/sigmoidal.png)
 
 
 # Non-Linear Regression Example
