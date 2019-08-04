@@ -1,5 +1,5 @@
 # Regressions
-A basic jupyter notebook consisting of codes to perform Linear Regression , Non-Linear Regression (Simple and Multiple) on a given dataset
+A basic jupyter notebook consisting of codes to perform Linear Regression , Non-Linear Regression (Simple and Multiple) on a given dataset and also gives the code for non-linear functions like Cubic,Quadratic,Exponential,Logarithmic and Sigmoidal.
 # Simple Linear Regression
 
 ![](https://github.com/infiniteoverflow/Regressions/blob/master/screenshots/screen1.1.png)
